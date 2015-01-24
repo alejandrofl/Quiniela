@@ -1,1 +1,1 @@
-var quinielaModule = angular.module("quinielaModule",['ngRoute']);
+var quinielaModule = angular.module('quinielaModule',['ngRoute']);
