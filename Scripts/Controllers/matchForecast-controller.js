@@ -1,3 +1,3 @@
-// quinielaModule.controller("FirstController", function ($scope, bootstrapedData) {
+ quinielaModule.controller("MatchForecastController", function ($scope) {
 //     $scope.firstContacts = bootstrapedData.firstContacts;
-// });
+ });
